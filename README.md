@@ -1,10 +1,10 @@
 # ApexPlanet Internship - Task 1
 
-🚀 **Hello Ammu** Android app created as part of my internship.
+🚀 **Hello World** Android app created as part of my internship.
 
 ## ✅ What I Did:
 - Installed Android Studio
-- Created a Java app with a TextView that says "Hello Ammu!"
+- Created a Java app with a TextView that says "Hello World!"
 - Tested on Pixel 6 emulator
 
 ## 📂 Folder Structure
